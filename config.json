@@ -1,6 +1,7 @@
 {
     "app_id" : "br.net.alunosead",
     "appname": "Alunos EAD",
+    "desktopappname": "EAD Desktop",
     "versioncode" : "2017",
     "versionname" : "1.0",
     "cache_expiration_time" : 300000,
@@ -10,8 +11,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "presets" : {"url": "http://alunosead.net.br/login/index.php", "username": ""},
-	"siteurl": "http://alunosead.net.br",
+    "siteurl": "http://alunosead.net.br",
     "skipssoconfirmation": "false",
-    
+    "forcedefaultlanguage": "false",
 }
