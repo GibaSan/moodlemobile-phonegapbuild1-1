@@ -564,7 +564,7 @@
     "mm.login.firsttime": "Esta é a sua primeira vez aqui?",
     "mm.login.getanothercaptcha": "Mudar imagem",
     "mm.login.help": "Ajuda",
-    "mm.login.helpmelogin": "<p>Este aplicativo somente pode conectar com um  se este foi especialmente configurado para permitir o acesso móvel. </p>\nSe não conseguir se conectar com o seu , vai precisar entrar em contato com a administradora do seu  e pedir ela acessar  <a href=\"http://docs.futurainfo.net\" target=\"_blank\">http://futurainfo.net</a></p>\n<p>.</p>",
+    "mm.login.helpmelogin": "<p>Acesso a Plataforma EAD Futur@ info aplicativo para utilização do site http://alunosead.net.br </p>\nSe não conseguir se conectar, entre em contato com a administrador gilberto@futurainfo.net<a href=\"http://docs.futurainfo.net\" target=\"_blank\">http://futurainfo.net</a></p>\n<p>.</p>",
     "mm.login.instructions": "Instruções",
     "mm.login.invalidaccount": "Por favor, verifique os detalhes de seu Usuário ou peça ao administrador do site para verificar a configuração do site.",
     "mm.login.invaliddate": "Data inválida",
