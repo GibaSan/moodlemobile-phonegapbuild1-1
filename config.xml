@@ -2,16 +2,16 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "br.net.alunosead"
-        versionCode = "2017"
-        version   = "1.0">
+        id        = "net.futurainfo.webaula"
+        versionCode = "2020"
+        version   = "2.0">
     <name>Alunos EAD</name>
 
     <description>
         Estude em qualquer lugar com o app oficial de AlunosEAD
     </description>
 
-    <author href="http://alunosead.net.br" email="gilberto@futurainfo.net">
+    <author href="http://webaula.futurainfo.net:82/moodle/" email="atendimento@futurainfo.net">
         Alunos EAD Mobile
     </author>
 
